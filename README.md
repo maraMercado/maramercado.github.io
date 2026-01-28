@@ -35,6 +35,8 @@ Este repositorio contiene el código fuente de un **sitio web comercial multipá
 - Archivos CSS y JS para estilos e interactividad
 - Archivo CNAME para configuración del dominio
 
+--
+
 ## 🎯 Mejoras a futuro
 - Mejorar validaciones del formulario
 - Optimizar accesibilidad y SEO
