@@ -4,6 +4,8 @@ Este repositorio contiene el código fuente de un **sitio web comercial multipá
 
 🔗 Sitio online: visasprosolutions.com
 
+--
+
 ## 🚀 Características del proyecto
 
 - Sitio web **multipágina**, con navegación entre secciones
@@ -13,6 +15,8 @@ Este repositorio contiene el código fuente de un **sitio web comercial multipá
 - Estructura clara y mantenible del proyecto
 - Hosting en Github Pages y configuración de dominio
 
+--
+
 ## 🧠 Tecnologías utilizadas
 
 - **HTML5** – estructura del sitio  
@@ -20,6 +24,8 @@ Este repositorio contiene el código fuente de un **sitio web comercial multipá
 - **JavaScript (Vanilla)** – interactividad y lógica del cliente  
 - **Consumo de API** para envío de formularios  
 - **GitHub Pages** – hosting
+
+--
 
 ## 📁 Estructura del proyecto
 
@@ -29,6 +35,6 @@ Este repositorio contiene el código fuente de un **sitio web comercial multipá
 - Archivos CSS y JS para estilos e interactividad
 - Archivo CNAME para configuración del dominio
 
-  ## 💡 Posibles mejoras futuras
+## 🎯 Mejoras a futuro
 - Mejorar validaciones del formulario
 - Optimizar accesibilidad y SEO
